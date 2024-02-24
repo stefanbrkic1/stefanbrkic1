@@ -1,0 +1,11 @@
+/* styles.css */
+.image-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.image-container a:not(:last-child) img {
+  margin-right: 10px;
+}
