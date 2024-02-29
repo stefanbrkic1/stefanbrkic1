@@ -10,8 +10,8 @@
 <span> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </span>
 <span> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </span>
 <span> <img src="./img/webpack.png" alt="webpack" width="38"/> </span>
-<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </span>
-<span> <img src="./img/tailwind.png" alt="tailwind" height="30"/> </span>
+<span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/> </span>
+<span> <img src="./img/tailwind.png" alt="tailwind" height="25"/> </span>
 <span> <img src="./img/styled-components.png" alt="styled-components" width="40" height="40"/> </span>
 <span> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </span>
 <span> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </span>
